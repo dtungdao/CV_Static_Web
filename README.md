@@ -1,2 +1,2 @@
 # CV_Static_Web
-Learn web design | make CV as static website
+Learn web design | make a CV as static website
